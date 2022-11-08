@@ -1,0 +1,12 @@
+D:\Sem7\SomeProject\PawMate\Models\bin\Debug\net6.0\Models.deps.json
+D:\Sem7\SomeProject\PawMate\Models\bin\Debug\net6.0\Models.dll
+D:\Sem7\SomeProject\PawMate\Models\bin\Debug\net6.0\Models.pdb
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\Models.dll
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\refint\Models.dll
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\Models.pdb
+D:\Sem7\SomeProject\PawMate\Models\obj\Debug\net6.0\ref\Models.dll

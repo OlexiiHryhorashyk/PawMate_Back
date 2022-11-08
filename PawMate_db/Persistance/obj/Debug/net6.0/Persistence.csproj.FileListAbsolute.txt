@@ -1,0 +1,17 @@
+D:\Sem7\SomeProject\PawMate\Persistance\bin\Debug\net6.0\Persistence.deps.json
+D:\Sem7\SomeProject\PawMate\Persistance\bin\Debug\net6.0\Persistence.dll
+D:\Sem7\SomeProject\PawMate\Persistance\bin\Debug\net6.0\Persistence.pdb
+D:\Sem7\SomeProject\PawMate\Persistance\bin\Debug\net6.0\Domain.dll
+D:\Sem7\SomeProject\PawMate\Persistance\bin\Debug\net6.0\Domain.pdb
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.dll
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\refint\Persistence.dll
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.pdb
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\ref\Persistence.dll
+D:\Sem7\SomeProject\PawMate\Persistance\bin\Debug\net6.0\Persistence.runtimeconfig.json
+D:\Sem7\SomeProject\PawMate\Persistance\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
