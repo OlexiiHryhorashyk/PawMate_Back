@@ -1,10 +1,7 @@
-﻿using Amazon.S3.Model;
-using CSharpFunctionalExtensions;
+﻿using CSharpFunctionalExtensions;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using PawMate.Image.API.Commands;
-using PawMate.Image.API.Infastructure.Helper;
-using PawMate.Image.API.Infastructure.Storage;
 using PawMate.Image.API.Models;
 using PawMate.Image.API.Queries;
 

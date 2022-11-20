@@ -9,7 +9,7 @@ namespace PawMate.Image.API.Infastructure.Helper
         {
             return new ImageEntity()
             {
-                Path = S3UrlHelper.GetPath(model.Id, model.UserName, model.UserSurname, model.Image.FileName),
+                Path = S3UrlHelper.GetPath(model.Id, model.UserName, model.Image.FileName),
                 ImageName = model.Image.FileName,
                 ImageFile = model.Image
             };

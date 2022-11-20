@@ -9,11 +9,9 @@ namespace PawMate.Image.API.Infastructure.Validation
         {
             RuleFor(x => x.Id)
                 .NotNull()
-                .Must(x => x > 0);
+                .NotEmpty();
 
             RuleFor(x => x.UserName).NotNull().NotEmpty();
-
-            RuleFor(x => x.UserSurname).NotNull().NotEmpty();
 
             RuleFor(x => x.Image).NotNull();
         }

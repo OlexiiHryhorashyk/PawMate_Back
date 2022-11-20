@@ -24,9 +24,9 @@
             return url.Substring(startPosition);
         }
 
-        public static string GetPath(int id, string userName, string userSurname, string imageName)
+        public static string GetPath(string id, string userName, string imageName)
         {
-            return $"{id}-{userName}-{userSurname}/{imageName}";
+            return $"{id}-{userName}/{imageName}";
         }
     }
 }

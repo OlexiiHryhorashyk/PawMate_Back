@@ -1,11 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Http;
 
-namespace PawMate.Image.API.Models
+namespace PawMate.Models.ImageDTOs
 {
     public class UploadImageModel
     {
         [Required]
-        public string Id { get; set; }
+        public int Id { get; set; }
 
         [Required]
         public string UserName { get; set; }

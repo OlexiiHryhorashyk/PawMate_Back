@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawMate.Image.API", "PawMate.Image.API\PawMate.Image.API.csproj", "{4F58901B-D476-4EE8-BF38-2BBDED7F982E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawMate.Image.API", "PawMate.Image.API\PawMate.Image.API.csproj", "{4F58901B-D476-4EE8-BF38-2BBDED7F982E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawMate.Domain", "PawMate.Domain\PawMate.Domain.csproj", "{C7827993-1904-4F24-B611-6EB25AF8AF1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawMate.Models", "PawMate.Models\PawMate.Models.csproj", "{4B096778-648C-4522-8B9F-5E0B210C3287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawMate.API", "PawMate.API\PawMate.API.csproj", "{5850DDDB-564E-4F6F-8225-70F371F9F4C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawMate.Persistence", "PawMate.Persistance\PawMate.Persistence.csproj", "{8863040D-FD77-4B76-AC9C-DCF0FD30FD68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawMate.Services", "PawMate.Services\PawMate.Services.csproj", "{818337F0-B4FF-46DB-A172-259A4AED017C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{4F58901B-D476-4EE8-BF38-2BBDED7F982E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F58901B-D476-4EE8-BF38-2BBDED7F982E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F58901B-D476-4EE8-BF38-2BBDED7F982E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7827993-1904-4F24-B611-6EB25AF8AF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7827993-1904-4F24-B611-6EB25AF8AF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7827993-1904-4F24-B611-6EB25AF8AF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7827993-1904-4F24-B611-6EB25AF8AF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B096778-648C-4522-8B9F-5E0B210C3287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B096778-648C-4522-8B9F-5E0B210C3287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B096778-648C-4522-8B9F-5E0B210C3287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B096778-648C-4522-8B9F-5E0B210C3287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5850DDDB-564E-4F6F-8225-70F371F9F4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5850DDDB-564E-4F6F-8225-70F371F9F4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5850DDDB-564E-4F6F-8225-70F371F9F4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5850DDDB-564E-4F6F-8225-70F371F9F4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8863040D-FD77-4B76-AC9C-DCF0FD30FD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8863040D-FD77-4B76-AC9C-DCF0FD30FD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8863040D-FD77-4B76-AC9C-DCF0FD30FD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8863040D-FD77-4B76-AC9C-DCF0FD30FD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818337F0-B4FF-46DB-A172-259A4AED017C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818337F0-B4FF-46DB-A172-259A4AED017C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818337F0-B4FF-46DB-A172-259A4AED017C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818337F0-B4FF-46DB-A172-259A4AED017C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
